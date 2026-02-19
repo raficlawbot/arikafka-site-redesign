@@ -26,6 +26,7 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;col
 .hero-image{aspect-ratio:16/10;object-fit:cover;object-position:center}
 .about-image{aspect-ratio:1/1;object-fit:cover;object-position:center}
 .card-img{aspect-ratio:16/9;object-fit:cover;object-position:center;margin-bottom:12px}
+.card-img.top{object-position:50% 15%}
 .caption{font-size:14px;color:var(--muted)}
 .about-grid{display:grid;grid-template-columns:1.2fr .8fr;gap:32px;align-items:start}
 .contact{text-align:center}
